@@ -15,7 +15,7 @@ const Portfolio = () => {
                   <a href="https://j-senak.github.io/Rain-or-Shine/">
                     <img
                       className="img-fluid port-image"
-                      src="./assets/screenshots/Screen Shot 2020-03-20 at 7.48.14 PM.png"
+                      src="./screenshots/Screen Shot 2020-03-20 at 7.48.14 PM.png"
                       alt=""
                     ></img>
                   </a>
@@ -23,7 +23,7 @@ const Portfolio = () => {
                     <a href="https://j-senak.github.io/homework2/">
                       <img
                         className="img-fluid port-image"
-                        src="./assets/screenshots/Screen Shot 2020-03-20 at 8.03.01 PM.png"
+                        src="./screenshots/Screen Shot 2020-03-20 at 8.03.01 PM.png"
                         alt=""
                       ></img>
                     </a>
@@ -33,7 +33,7 @@ const Portfolio = () => {
                       <a href="https://j-senak.github.io/homework3/">
                         <img
                           className="img-fluid port-image"
-                          src="./assets/screenshots/Screen Shot 2020-03-20 at 8.07.54 PM.png"
+                          src="./screenshots/Screen Shot 2020-03-20 at 8.07.54 PM.png"
                           alt=""
                         ></img>
                       </a>
@@ -41,7 +41,7 @@ const Portfolio = () => {
                         <a href="https://immense-plains-29626.herokuapp.com/">
                           <img
                             className="img-fluid port-image"
-                            src="assets/screenshots/Screen Shot 2020-04-10 at 9.36.55 PM.png"
+                            src="./screenshots/Screen Shot 2020-04-10 at 9.36.55 PM.png"
                             alt=""
                           ></img>
                         </a>
@@ -51,7 +51,7 @@ const Portfolio = () => {
                           <a href="https://homework11-note-taker.herokuapp.com/">
                             <img
                               className="img-fluid port-image"
-                              src="assets/screenshots/Screen Shot 2020-04-03 at 10.42.59 PM.png"
+                              src="./screenshots/Screen Shot 2020-04-03 at 10.42.59 PM.png"
                               alt=""
                             ></img>
                           </a>
@@ -59,7 +59,7 @@ const Portfolio = () => {
                             <a href="https://j-senak.github.io/Homework9-Good-README-Generator/">
                               <img
                                 className="img-fluid port-image"
-                                src="assets/screenshots/Screen Shot 2020-04-17 at 12.55.56 AM.png"
+                                src="./screenshots/Screen Shot 2020-04-17 at 12.55.56 AM.png"
                                 alt=""
                               ></img>
                             </a>
