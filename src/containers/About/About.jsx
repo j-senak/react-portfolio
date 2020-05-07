@@ -22,7 +22,7 @@ const About = () => {
                 gaining many sales and people skills as I continued to learn.
                 Joined the Georgia Tech Full Stack Web Development program to
                 gain new skills and a new career. Experienced in HTML,
-                Bootstrap, CSS, JavaScript, jQuery, Node, Express, and mySQL.
+                Bootstrap, CSS, JavaScript, jQuery, Node, Express, mySQL, MongoDB, and React.
               </p>
               <br />
               <br />
