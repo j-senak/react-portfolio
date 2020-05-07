@@ -1,0 +1,28 @@
+#logo {
+    font-family: Georgia, Times, "Times New Roman", serif;
+  
+    /* Typography */
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(130, 233, 228);
+  
+    /* Visual */
+    background: #030303;
+  }
+  
+  /* override bootstrap hover color and border */
+  .navbar-default .navbar-nav > li > a:hover {
+    color: #4aaaa5;
+  }
+  
+  .navbar {
+    background: rgba(255, 255, 255, 0.445);
+    border: none;
+  }
+  
+  /* media query for nav background color change */
+  @media only screen and (max-width: 767px) {
+    .navbar-header {
+      background-color: #4aaaa5;
+    }
+  }
