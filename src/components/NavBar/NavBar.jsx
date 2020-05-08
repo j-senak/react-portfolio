@@ -23,17 +23,17 @@ const NavBar = () => {
           <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
             <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
               <li className="nav-item">
-                <a className="nav-link" href="contact.html">
+                <a className="nav-link" href="contact">
                   Contact
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="portfolio.html">
+                <a className="nav-link" href="portfolio">
                   Portfolio
                 </a>
               </li>
               <li className="nav-item active">
-                <a className="nav-link" href="index.html">
+                <a className="nav-link" href="index">
                   About
                 </a>
               </li>
