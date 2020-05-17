@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.fa365487.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.91f1675b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.91f1675b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.d08fb9a1.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d08fb9a1.js.map",
+    "static/js/2.bcd12f42.chunk.js": "/react-portfolio/static/js/2.bcd12f42.chunk.js",
+    "static/js/2.bcd12f42.chunk.js.map": "/react-portfolio/static/js/2.bcd12f42.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.51c7cb8c3ac33344ec1c43f8f8623831.js": "/react-portfolio/precache-manifest.51c7cb8c3ac33344ec1c43f8f8623831.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.fa365487.chunk.css.map": "/react-portfolio/static/css/main.fa365487.chunk.css.map",
+    "static/js/2.bcd12f42.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.bcd12f42.chunk.js.LICENSE.txt",
+    "static/media/eatdahburger.png": "/react-portfolio/static/media/eatdahburger.de9a58d7.png",
+    "static/media/employeedirectory.png": "/react-portfolio/static/media/employeedirectory.41f9a874.png",
+    "static/media/financetracker.png": "/react-portfolio/static/media/financetracker.f216b9f8.png",
+    "static/media/fitnesstracker.png": "/react-portfolio/static/media/fitnesstracker.c5d8c4a7.png",
+    "static/media/pokemonteammanager.png": "/react-portfolio/static/media/pokemonteammanager.16b786f8.png",
+    "static/media/rainorshine.png": "/react-portfolio/static/media/rainorshine.1232c3b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d08fb9a1.js",
+    "static/js/2.bcd12f42.chunk.js",
+    "static/css/main.fa365487.chunk.css",
+    "static/js/main.91f1675b.chunk.js"
+  ]
+}
