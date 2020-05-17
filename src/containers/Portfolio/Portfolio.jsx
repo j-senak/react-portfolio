@@ -86,23 +86,23 @@ const Portfolio = () => {
                         url="https://github.com/j-senak/employee-directory-sort"
                         img={EmployeeDirectory}
                       />
-                      <div className="col-sm-6 col-md-12 col-lg-6">
-                        {/* <a href="https://homework11-note-taker.herokuapp.com/">
+                    </div>
+                    <div className="col-sm-6 col-md-12 col-lg-6">
+                      {/* <a href="https://homework11-note-taker.herokuapp.com/">
                             <img
                               className="img-fluid port-image"
                               src="./screenshots/Screen Shot 2020-04-03 at 10.42.59 PM.png"
                               alt=""
                             ></img>
                           </a> */}
-                        <div className="col-sm-6 col-md-12 col-lg-6">
-                          {/* <a href="https://j-senak.github.io/Homework9-Good-README-Generator/">
+                      <div className="col-sm-6 col-md-12 col-lg-6">
+                        {/* <a href="https://j-senak.github.io/Homework9-Good-README-Generator/">
                               <img
                                 className="img-fluid port-image"
                                 src="./screenshots/Screen Shot 2020-04-17 at 12.55.56 AM.png"
                                 alt=""
                               ></img>
                             </a> */}
-                        </div>
                       </div>
                     </div>
                   </div>
