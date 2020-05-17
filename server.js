@@ -12,6 +12,7 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
 
+// Test the server connection
 app.get("/api/config", (req, res) => {
   res.json({
     success: true,
