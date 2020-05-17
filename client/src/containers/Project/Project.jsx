@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Project = (props) => {
     return (
         <div className="col-sm-6 col-md-12 col-lg-6">
@@ -14,5 +13,4 @@ const Project = (props) => {
         </div>
     );
 };
-
 export default Project;

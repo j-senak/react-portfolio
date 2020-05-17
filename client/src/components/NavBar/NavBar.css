@@ -1,24 +1,19 @@
 #logo {
     font-family: Georgia, Times, "Times New Roman", serif;
-  
     font-size: 24px;
     font-weight: bold;
     color: rgb(130, 233, 228);
-  
     background: #030303;
   }
-  
   .navbar-default .navbar-nav > li > a:hover {
-    color: #4aaaa5;
+    color: #4AAAA5;
   }
-  
   .navbar {
     background: rgba(255, 255, 255, 0.445);
     border: none;
   }
-  
   @media only screen and (max-width: 767px) {
     .navbar-header {
-      background-color: #4aaaa5;
+      background-color: #4AAAA5;
     }
   }

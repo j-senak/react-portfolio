@@ -1,6 +1,5 @@
 import React from "react";
 import "./Contact.css";
-
 const Contact = () => {
   return (
     <div>
@@ -11,7 +10,7 @@ const Contact = () => {
               <h1 className="block-header">Contact</h1>
               <hr />
               <div className="form-group">
-                <label for="name" className="col-sm-2 control-label">
+                <label htmlFor="name" className="col-sm-2 control-label">
                   Name
                 </label>
                 <div className="col-sm-10">
@@ -23,7 +22,7 @@ const Contact = () => {
                   ></input>
                 </div>
                 <div className="form-group">
-                  <label for="email" className="col-sm-2 control-label">
+                  <label htmlFor="email" className="col-sm-2 control-label">
                     Email
                   </label>
                   <div className="col-sm-10">
@@ -35,7 +34,7 @@ const Contact = () => {
                     ></input>
                   </div>
                   <div className="form-group">
-                    <label className="col-sm-2 control-label" for="msg">
+                    <label className="col-sm-2 control-label" htmlFor="msg">
                       Message
                     </label>
                     <div className="col-sm-10">
@@ -57,5 +56,4 @@ const Contact = () => {
     </div>
   );
 };
-
 export default Contact;
